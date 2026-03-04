@@ -1,0 +1,14 @@
+melek.txt
+
+ayberk korkmaz $25 10000
+melek varol $22 15000
+nihal ozturan $21 20000
+nergis boz $23 25000
+
+normal.txt
+
+ad, yas, il, plaka, hesap
+ali 34 istanbul$ 76 100
+veli 06 ankara$ 36 100
+kubra 07 antalya$ 19 100
+raphael 21 diyarbakır$- 25 100
